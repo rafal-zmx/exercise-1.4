@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1569762385 source:c:\users\rafal\onedrive\nauka\c++\cwiczenia\c++ zadaniazprogramowaniazprzykladowymirozwiazaniami\1.4\main.cpp
-	<iostream>
-	<conio.h>
-	<iomanip>
-	<math.h>
-
